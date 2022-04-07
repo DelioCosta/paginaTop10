@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+main{
+    color: azure;
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
+
+footer{
+    color: rgba(223, 223, 223, 0.836);
+    text-align: center;
+}
+
+nav{
+    color: blueviolet;
+}
+.top10 {
+    color: rgb(116, 2, 2);
+    background: rgb(211, 211, 211);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.top10:nth-last-child(odd){
+    background: rgb(241, 241, 241);
+}
+
+.bonus{
+    color: rgb(12, 199, 12);
+    background: rgba(211, 211, 211, 0.541);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
